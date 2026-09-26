@@ -62,9 +62,3 @@ arguments to the RL scripts are forwarded to Hydra.
 | **NPO+GRPO** | `run_alfworld_npo_grpo.sh`                                | `run_webshop_npo_grpo.sh` |
 | **GiRPO** | `run_alfworld_girpo.sh`                                   | `run_webshop_girpo.sh` |
 
-
-
-## Citation
-
-If you find this project useful, welcome to cite us.
-
